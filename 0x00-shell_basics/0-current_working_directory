@@ -1,3 +1,2 @@
 #!/bin/bash
-
-cd /alx-system_engineering-devops/0*00-shell_basics/0-current_working_directory
+pwd
